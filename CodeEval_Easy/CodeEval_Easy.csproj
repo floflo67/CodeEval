@@ -51,6 +51,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseWords.cs" />
+    <Compile Include="SetIntersection.cs" />
     <Compile Include="SumOfDigits.cs" />
     <Compile Include="SumOfIntegersFromFile.cs" />
     <Compile Include="SumOfPrimes.cs" />
