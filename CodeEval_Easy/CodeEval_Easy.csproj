@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BeautifulStrings.cs" />
+    <Compile Include="CapitalizeWords.cs" />
     <Compile Include="FibonacciSeries.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="HappyNumbers.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="MultiplicationTables.cs" />
     <Compile Include="NModM.cs" />
     <Compile Include="OddNumbers.cs" />
+    <Compile Include="PenultimateWord.cs" />
     <Compile Include="PrimePalindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -61,6 +63,7 @@
     <Compile Include="SumOfDigits.cs" />
     <Compile Include="SumOfIntegersFromFile.cs" />
     <Compile Include="SumOfPrimes.cs" />
+    <Compile Include="SwapCase.cs" />
     <Compile Include="UniqueElements.cs" />
   </ItemGroup>
   <ItemGroup>
