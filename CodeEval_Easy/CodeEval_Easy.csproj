@@ -57,6 +57,7 @@
     <Compile Include="ReverseWords.cs" />
     <Compile Include="RightmostChar.cs" />
     <Compile Include="SetIntersection.cs" />
+    <Compile Include="SimpleSorting.cs" />
     <Compile Include="SumOfDigits.cs" />
     <Compile Include="SumOfIntegersFromFile.cs" />
     <Compile Include="SumOfPrimes.cs" />
