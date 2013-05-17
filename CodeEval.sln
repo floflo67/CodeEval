@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEval_Easy", "CodeEval_Easy\CodeEval_Easy.csproj", "{88C103D3-F116-457C-A6DE-1B0D39E6D35D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEval_Moderate", "CodeEval_Moderate\CodeEval_Moderate.csproj", "{C2BE0EED-739D-4C93-81B1-5435436BB4AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{88C103D3-F116-457C-A6DE-1B0D39E6D35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88C103D3-F116-457C-A6DE-1B0D39E6D35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88C103D3-F116-457C-A6DE-1B0D39E6D35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BE0EED-739D-4C93-81B1-5435436BB4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BE0EED-739D-4C93-81B1-5435436BB4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BE0EED-739D-4C93-81B1-5435436BB4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BE0EED-739D-4C93-81B1-5435436BB4AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
