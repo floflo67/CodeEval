@@ -46,13 +46,15 @@
     <Compile Include="Lowercase.cs" />
     <Compile Include="MultiplesOfANumber.cs" />
     <Compile Include="MultiplicationTables.cs" />
+    <Compile Include="OddNumbers.cs" />
     <Compile Include="PrimePalindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseWords.cs" />
     <Compile Include="SumOfDigits.cs" />
-    <Compile Include="SumOfIntergersFromFile.cs" />
+    <Compile Include="SumOfIntegersFromFile.cs" />
     <Compile Include="SumOfPrimes.cs" />
+    <Compile Include="UniqueElements.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
