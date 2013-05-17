@@ -41,12 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FibonacciSeries.cs" />
     <Compile Include="FizzBuzz.cs" />
+    <Compile Include="Lowercase.cs" />
     <Compile Include="MultiplesOfANumber.cs" />
+    <Compile Include="MultiplicationTables.cs" />
     <Compile Include="PrimePalindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseWords.cs" />
+    <Compile Include="SumOfDigits.cs" />
     <Compile Include="SumOfPrimes.cs" />
   </ItemGroup>
   <ItemGroup>
