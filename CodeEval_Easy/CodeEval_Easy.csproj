@@ -47,6 +47,7 @@
     <Compile Include="Lowercase.cs" />
     <Compile Include="MultiplesOfANumber.cs" />
     <Compile Include="MultiplicationTables.cs" />
+    <Compile Include="NModM.cs" />
     <Compile Include="OddNumbers.cs" />
     <Compile Include="PrimePalindrome.cs" />
     <Compile Include="Program.cs" />
