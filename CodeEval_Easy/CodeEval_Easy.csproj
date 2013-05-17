@@ -44,6 +44,7 @@
     <Compile Include="BeautifulStrings.cs" />
     <Compile Include="CapitalizeWords.cs" />
     <Compile Include="FibonacciSeries.cs" />
+    <Compile Include="FindAWriter.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="HappyNumbers.cs" />
     <Compile Include="HexToDecimal.cs" />
