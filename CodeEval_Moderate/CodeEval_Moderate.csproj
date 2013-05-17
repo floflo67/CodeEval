@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LongestLines.cs" />
+    <Compile Include="MToLastElement.cs" />
     <Compile Include="Pangrams.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
