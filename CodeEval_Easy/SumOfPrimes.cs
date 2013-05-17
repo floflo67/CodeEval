@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CodeEval_Easy
+﻿namespace CodeEval_Easy
 {
     class SumOfPrimes
     {
@@ -23,12 +17,12 @@ namespace CodeEval_Easy
                 i++;
             }
 
-            Console.WriteLine(number);
+            System.Console.WriteLine(number);
         }
 
         public static bool isPrime(int number)
         {
-            for(int i = 2 ; i <= Math.Sqrt(number) ; i++)
+            for(int i = 2 ; i <= System.Math.Sqrt(number) ; i++)
             {
                 if(number % i == 0)
                     return false;
