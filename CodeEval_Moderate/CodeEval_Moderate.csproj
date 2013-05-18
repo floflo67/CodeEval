@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayAbsurdity.cs" />
     <Compile Include="LongestLines.cs" />
     <Compile Include="MToLastElement.cs" />
     <Compile Include="Pangrams.cs" />
