@@ -45,6 +45,7 @@
     <Compile Include="CashRegister.cs" />
     <Compile Include="CountingPrimes.cs" />
     <Compile Include="LongestLines.cs" />
+    <Compile Include="MinimumCoins.cs" />
     <Compile Include="MToLastElement.cs" />
     <Compile Include="Pangrams.cs" />
     <Compile Include="PrimeNumbers.cs" />
