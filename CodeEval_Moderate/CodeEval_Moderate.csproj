@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ArrayAbsurdity.cs" />
     <Compile Include="CashRegister.cs" />
+    <Compile Include="CountingPrimes.cs" />
     <Compile Include="LongestLines.cs" />
     <Compile Include="MToLastElement.cs" />
     <Compile Include="Pangrams.cs" />
